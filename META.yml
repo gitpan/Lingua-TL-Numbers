@@ -1,5 +1,5 @@
 ---
-abstract: 'Convert number into Tagalog words'
+abstract: 'Convert numbers into Tagalog words'
 author:
   - 'Sherwin Daganato <sherwin@daganato.com>'
 build_requires:
@@ -23,4 +23,4 @@ resources:
   bugtracker: https://github.com/sherwind/Lingua-TL-Numbers/issues
   license: http://dev.perl.org/licenses/
   repository: https://github.com/sherwind/Lingua-TL-Numbers.git
-version: 0.01
+version: 0.02
